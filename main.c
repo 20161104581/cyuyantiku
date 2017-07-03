@@ -5,10 +5,9 @@
 //  Created by 20161104581 on 17/6/19.
 //  Copyright © 2017年 20161104581. All rights reserved.
 //
-
-#include <stdio.h>
-
-int main(int argc, const char * argv[]) {
+#include<stdio.h>
+int main()
+{
     int i,a,b,c,m,n,flag;
     while(scanf("%d%d",&m,&n)!=EOF)
     {
